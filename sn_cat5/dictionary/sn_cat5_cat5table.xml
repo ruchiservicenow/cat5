@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="cat5table" max_length="40" name="sn_cat5_cat5table" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Cat5name" max_length="40" name="cat5name" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

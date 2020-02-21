@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="cat5name" label="Cat5name" language="en" table="sn_cat5_cat5table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>cat5name</element>
+            <help/>
+            <hint/>
+            <label>Cat5name</label>
+            <language>en</language>
+            <name>sn_cat5_cat5table</name>
+            <plural>Cat5names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>maint</sys_created_by>
+            <sys_created_on>2020-02-08 19:53:22</sys_created_on>
+            <sys_id>ff5f1b5e19b68010f87779baf659d301</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Cat5name</sys_name>
+            <sys_package display_value="cat5" source="sn_cat5">db3f975e19b68010f87779baf659d3db</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="cat5">db3f975e19b68010f87779baf659d3db</sys_scope>
+            <sys_update_name>sys_documentation_sn_cat5_cat5table_cat5name_en</sys_update_name>
+            <sys_updated_by>maint</sys_updated_by>
+            <sys_updated_on>2020-02-08 19:53:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
